@@ -17,7 +17,7 @@ public class StudentController
 
 	private static void execute() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("execute()");
 	}
 
 	private static void showMessage() {
