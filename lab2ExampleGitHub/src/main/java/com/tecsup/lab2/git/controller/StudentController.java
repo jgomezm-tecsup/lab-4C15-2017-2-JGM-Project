@@ -14,8 +14,26 @@ public class StudentController
         
         showMessage();
         
+        showNewMessage();
+        
+        executeAgain();
+        
+        // Nuevo metodo        
         enablePrinter();
     }
+
+    /**
+     * 
+     */
+	private static void executeAgain() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void showNewMessage() {
+		// TODO Auto-generated method stub
+		
+	}
 
 	private static void enablePrinter() {
 		// TODO Auto-generated method stub
