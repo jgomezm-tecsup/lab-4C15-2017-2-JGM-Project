@@ -13,6 +13,8 @@ public class StudentController
         // execute
         execute();
         
+        if (true) System.out.println("demo");
+        
         // show Message -- ok
         showMessage();
         
