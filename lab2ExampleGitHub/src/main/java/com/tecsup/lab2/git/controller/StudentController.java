@@ -27,8 +27,8 @@ public class StudentController
         
         // New Comment 
         // Nuevo metodo -- okfff       
-        // Nuevo metodo -- ok | asdwwww
-        enablePrinter();
+        // Nuevo metodo -- ok | asd
+        enablePrinter123123();
         
         // new mensaje -- okfffwww
         demo3();
@@ -55,9 +55,9 @@ public class StudentController
 		
 	}
 
-	private static void enablePrinter() {
+	private static void enablePrinter123123() {
 		// TODO Auto-generated method stubfff
-		
+		// Demo Demo Demo Demo Demo 
 	}
 
 	private static void execute() {
