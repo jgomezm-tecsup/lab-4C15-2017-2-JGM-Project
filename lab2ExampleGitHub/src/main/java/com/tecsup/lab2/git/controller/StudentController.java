@@ -18,20 +18,14 @@ public class StudentController
         
         executeAgain();
         
-<<<<<<< HEAD
         // Nuevo metodo        
-=======
->>>>>>> branch 'master' of https://github.com/jgomezm-tecsup/lab-4C15-2017-2-JGM-Project
         enablePrinter();
         
     }
 
-<<<<<<< HEAD
     /**
      * 
      */
-=======
->>>>>>> branch 'master' of https://github.com/jgomezm-tecsup/lab-4C15-2017-2-JGM-Project
 	private static void executeAgain() {
 		// TODO Auto-generated method stub
 		
