@@ -13,7 +13,7 @@ public class StudentController
         // execute
         execute();
         
-        if (true) System.out.println("demssso");
+        if (true) System.out.println("demsdddsso");
         
         // show Message -- ok
         showMessage();
@@ -35,7 +35,7 @@ public class StudentController
     }
 
     private static void demo3() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubfff
 		
 	}
 
