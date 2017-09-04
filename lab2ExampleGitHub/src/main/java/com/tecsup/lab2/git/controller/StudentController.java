@@ -76,5 +76,10 @@ public class StudentController
 		
 		System.out.println("message2 ....!");
 	}	
+
+	private static void sprint4() {
+		
+		System.out.println("sprint4 ....!");
+	}	
 	
 }
