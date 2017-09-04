@@ -18,17 +18,19 @@ public class StudentController
         // show Message -- ok
         showMessage();
         
-        // new Message -- ok
+        // new Message -- okfff
         showNewMessage();
         
+        // execute Again -- ok|KKfff
         // execute Again -- ok|KK| dddd
         executeAgain();
         
         // New Comment 
+        // Nuevo metodo -- okfff       
         // Nuevo metodo -- ok | asd
-        enablePrinter();
+        enablePrinter123123();
         
-        // new mensaje -- ok
+        // new mensaje -- okfff
         demo3();
     }
 
@@ -41,7 +43,7 @@ public class StudentController
      *  123
      */
 	private static void executeAgain() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubfff
 		// Prueba de mensaje 
 	}
 
@@ -49,13 +51,13 @@ public class StudentController
 	 * 
 	 */
 	private static void showNewMessage() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubfff
 		
 	}
 
-	private static void enablePrinter() {
-		// TODO Auto-generated method stub
-		
+	private static void enablePrinter123123() {
+		// TODO Auto-generated method stubfff
+		// Demo Demo Demo Demo Demo 
 	}
 
 	private static void execute() {
