@@ -13,7 +13,14 @@ public class StudentController
         execute();
         
         showMessage();
+        
+        showNewMessage();
     }
+
+	private static void showNewMessage() {
+		// TODO Auto-generated method stub
+		
+	}
 
 	private static void execute() {
 		// TODO Auto-generated method stub
