@@ -13,7 +13,7 @@ public class StudentController
         // execute
         execute();
         
-        if (true) System.out.println("demo");
+        if (true) System.out.println("demssso");
         
         // show Message -- ok
         showMessage();
@@ -21,7 +21,7 @@ public class StudentController
         // new Message -- ok
         showNewMessage();
         
-        // execute Again -- ok
+        // execute Again -- ok|KK
         executeAgain();
         
         // New Comment 
@@ -29,10 +29,10 @@ public class StudentController
         enablePrinter();
         
         // new mensaje -- ok
-        demo();
+        demo3();
     }
 
-    private static void demo() {
+    private static void demo3() {
 		// TODO Auto-generated method stub
 		
 	}
