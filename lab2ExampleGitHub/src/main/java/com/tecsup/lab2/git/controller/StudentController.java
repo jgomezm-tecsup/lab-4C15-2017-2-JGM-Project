@@ -13,7 +13,14 @@ public class StudentController
         execute();
         
         showMessage();
+        
+        enablePrinter();
     }
+
+	private static void enablePrinter() {
+		// TODO Auto-generated method stub
+		
+	}
 
 	private static void execute() {
 		// TODO Auto-generated method stub
