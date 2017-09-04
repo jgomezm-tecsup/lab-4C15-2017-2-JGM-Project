@@ -12,9 +12,11 @@ public class StudentController
         
         execute();
         
+        if (true) System.out.println("demo");
+        
         showMessage();
         
-        // new Message
+        // new Message ----
         showNewMessage();
         
         executeAgain();
