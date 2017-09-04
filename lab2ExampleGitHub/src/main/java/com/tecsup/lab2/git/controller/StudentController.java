@@ -21,6 +21,8 @@ public class StudentController
         // new Message -- okfff
         showNewMessage();
         
+        showMessage2();
+        
         // execute Again -- ok|KKfff
         // execute Again -- ok|KK| dddd
         executeAgain();
@@ -69,5 +71,10 @@ public class StudentController
 		
 		System.out.println("message ....!");
 	}
-    
+
+	private static void showMessage2() {
+		
+		System.out.println("message2 ....!");
+	}	
+	
 }
