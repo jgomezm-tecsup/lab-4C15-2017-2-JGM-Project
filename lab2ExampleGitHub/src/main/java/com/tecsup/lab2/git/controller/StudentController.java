@@ -21,18 +21,18 @@ public class StudentController
         // new Message -- ok
         showNewMessage();
         
-        // execute Again -- ok|KK
+        // execute Again -- ok|KK| dddd
         executeAgain();
         
         // New Comment 
-        // Nuevo metodo -- ok       
+        // Nuevo metodo -- ok | asd
         enablePrinter();
         
         // new mensaje -- ok
-        demo();
+        demo3();
     }
 
-    private static void demo() {
+    private static void demo3() {
 		// TODO Auto-generated method stub
 		
 	}
